@@ -64,7 +64,7 @@ DOMAIN-SUFFIX,emby.wtf // Added for: pub1.emby.wtf:443
 DOMAIN,main.gugumedia.site
 
 # peach
-DOMAIN,embymv.tk
+DOMAIN,embymv.link
 IP-CIDR,193.123.232.141/32,no-resolve // 193.123.232.141:10000 peach
 IP-CIDR,168.138.45.100/32,no-resolve
 IP-CIDR,141.147.166.107/32,no-resolve // Added for: 141.147.166.107:19798
