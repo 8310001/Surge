@@ -1,5 +1,5 @@
 # Emby start
-IP-CIDR,208.87.242.13/32,no-resolve // peach 播放
+
 DOMAIN,emby.my //  月饼
 DOMAIN,eggtartemby.itsmyduty.top // levilde
 DOMAIN,yhemby.top // 飞跃银河
@@ -66,9 +66,11 @@ DOMAIN,main.gugumedia.site
 
 # peach
 DOMAIN,embymv.link
-IP-CIDR,193.123.232.141/32,no-resolve // 193.123.232.141:10000 peach
-IP-CIDR,168.138.45.100/32,no-resolve
-IP-CIDR,141.147.166.107/32,no-resolve // Added for: 141.147.166.107:19798
+IP-CIDR,193.123.232.141/32,no-resolve // peach
+IP-CIDR,168.138.45.100/32,no-resolve // peach
+IP-CIDR,141.147.166.107/32,no-resolve // peach
+IP-CIDR,108.181.0.21/32,no-resolve // peach 播放
+IP-CIDR,208.87.242.13/32,no-resolve // peach 播放
 
 # 特卡
 # DOMAIN-SUFFIX,carlos.trade
