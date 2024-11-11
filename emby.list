@@ -30,7 +30,6 @@ DOMAIN,cn.apopcloud.live // apoppro
 DOMAIN,robo.656888.xyz // robo
 DOMAIN,robo.668918.xyz // robo
 DOMAIN,ss.809688.xyz // ciji 德国
-DOMAIN,node1.guguemby.site // 测试线路 gugu
 DOMAIN-SUFFIX,micu.hk // Added for: tv.micu.hk:443
 DOMAIN,123456.buzz // DPX 海外
 OR,((DOMAIN-SUFFIX,123456.buzz), (DOMAIN-SUFFIX,1110111.top)) // DPX 直连
@@ -63,8 +62,6 @@ DOMAIN,nanflix.net // Nanflix
 # 终点站
 DOMAIN-SUFFIX,emby.wtf // Added for: pub1.emby.wtf:443
 
-# GUGU
-DOMAIN,main.gugumedia.site
 
 # peach
 DOMAIN,embymv.link
